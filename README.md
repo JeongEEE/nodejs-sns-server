@@ -1,12 +1,8 @@
-# 🍏 Node.js Express Auth Server
+# 🍏 Node.js Express SNS Server
 
 ------
 
-## Sample Auth Server
-
-master branch = jwt, passport 구현
-
-crud branch = CRUD 구현
+## Sample SNS 블로그 Server
 
 Node v.18.17.0
 
